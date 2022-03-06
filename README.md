@@ -18,4 +18,4 @@
 ## THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # GitHub URL: https://github.com/loganpalmer95/note-taker
-# Heroku URL: 
+# Heroku URL: https://note-taker-lp-95.herokuapp.com/
